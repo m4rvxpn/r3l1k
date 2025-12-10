@@ -147,5 +147,3 @@ The tool parses each file and merges vulnerabilities based on plugin identifier,
 
 - r3l1k attempts to resolve certain Nessus redirect links using HTTP requests and extract clean domains for readability.
 - If outbound HTTP is blocked or a link cannot be resolved, the original reference is used as a fallback, which can lead to less normalized reference text.
-
-(https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/46062702/e3b85dc2-794f-45b7-9e43-c39418517d97/relik.py)
